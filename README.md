@@ -1,2 +1,2 @@
 ## Required packages:
-### `pip install uvicorn fastapi fastapi_utils pydantic sqlalchemy psycopg2`
+### `pip install uvicorn fastapi pydantic pydentic-settings apscheduler sqlalchemy psycopg2`
