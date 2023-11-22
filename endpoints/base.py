@@ -25,5 +25,5 @@ def main():
     Base application endpoint
     
     """
-    return {"message": f"Bicen app"}
+    return {"message": f"App"}
 
